@@ -22,5 +22,6 @@ Dalam dunia ritel yang kompetitif, penerapan strategi diskon merupakan salah sat
 - **Menetapkan Dasar Pengambilan Keputusan:**  
   Menyediakan informasi yang mendalam dan data-driven untuk mendukung pengambilan keputusan strategis dalam penetapan harga dan promosi, serta memastikan bahwa kebijakan diskon mendukung pertumbuhan revenue dan profitabilitas yang berkelanjutan.
 
-- **Tableau Link:**
+
+**Tableau Link:**
 https://public.tableau.com/views/StudiKasusDatasetSuperstoreAnalisaPengaruhDiskonpadaPenjualanBerdasarkanKategoriDiskon_MuhammadNaufalMaahir_JCDS2804016/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
